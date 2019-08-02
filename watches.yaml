@@ -1,0 +1,6 @@
+---
+- version: v1alpha1
+  group: gpte.opentlc.com
+  kind: Gogs
+  #role: /opt/ansible/roles/gogs
+  playbook: /opt/ansible/playbook.yml
